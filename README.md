@@ -30,7 +30,7 @@ GIVEN I need a new, secure password
 <li>THEN the password is either displayed in an alert or written to the page</li>
 </ul>
 
-[Deployed Site](linkplaceholder)
+[Deployed Site](https://levimendyk.github.io/week-3-challenge/)
 
 Contribution guidelines for this project
 <img src="./assets/images/03-javascript-homework-demo.png" alt="password generator screenshot" />
